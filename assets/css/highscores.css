@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+}
+body {
+    background-color: darkblue;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: white;
+}
