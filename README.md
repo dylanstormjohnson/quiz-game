@@ -3,8 +3,10 @@ A game to test your ship knowledge!!!!!!!!
 
 Image
 
-Here is an image of the completed website:
-![The Horiseon Webpage in full, showing its many elements, including its navigation bar, heading image, and informational sections.](./assets/images/Portfolio_Full_Page_Screenshot.pdf)
+Here is an image of the completed website's Homepage:
+![The Homepage in full, showing its many elements, including its buttons, navigation, and title.](./assets/images/Quiz_Game_Full_Homepage_Screenshot.pdf)
+Here is an image of the completed website's Highscores Page:
+![The HighScores Page in full, showing its many elements, including its buttons, navigation, and title.](./assets/images/Quiz_Game_Full_HighscoresPage_Screenshot.pdf)
 
 Description
     - what
